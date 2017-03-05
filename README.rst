@@ -1,6 +1,10 @@
 sentry-plugins
 ==============
 
+.. image:: https://badges.greenkeeper.io/Mattlk13/sentry.svg
+   :alt: Greenkeeper badge
+   :target: https://greenkeeper.io/
+
 Extensions for Sentry. Includes GitHub, and HipChat.
 
 Install the package via ``pip``::
